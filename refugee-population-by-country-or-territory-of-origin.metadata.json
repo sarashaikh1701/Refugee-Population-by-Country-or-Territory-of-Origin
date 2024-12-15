@@ -1,0 +1,39 @@
+{
+  "chart": {
+    "title": "Refugee population by country or territory of origin",
+    "subtitle": "The total number of [refugees](#dod:refugee) by country that they are moving from.",
+    "citation": "UNHCR (2024)",
+    "originalChartUrl": "https://ourworldindata.org/grapher/refugee-population-by-country-or-territory-of-origin?v=1&csvType=full&useColumnShortNames=false",
+    "selection": [
+      "Kenya",
+      "Turkey",
+      "Afghanistan",
+      "Belgium",
+      "Bangladesh",
+      "Austria"
+    ]
+  },
+  "columns": {
+    "Refugees by country of origin": {
+      "titleShort": "Refugees by country of origin",
+      "titleLong": "Refugees by country of origin",
+      "descriptionShort": "Number of [refugees](#dod:refugee) by the country of origin. This measures the total number of refugees from the country; not the number per year.",
+      "descriptionKey": [
+        "A refugee is defined as a person in need of international protection, being outside their country of origin, because of serious threats against which the authorities of their home country cannot or will not protect them."
+      ],
+      "descriptionProcessing": "- The data collected by the UNHCR describes movement of refugees between individual regions. To calculate the total number of refugees in a region, we sum up the data from all origin countries. The same applies to calculating all refugees from one country of origin.\n- To calculate the number of refugees per 1,000 people in a country, we divide the number of refugees by the total population of the country and multiply by 1,000. The population estimates come from a long-run dataset [maintained by Our World in Data](https://ourworldindata.org/population-sources).",
+      "shortUnit": "",
+      "unit": "people",
+      "timespan": "1951-2023",
+      "type": "Integer",
+      "owidVariableId": 962011,
+      "shortName": "refugees_under_unhcrs_mandate_origin",
+      "lastUpdated": "2024-07-25",
+      "nextUpdate": "2025-01-21",
+      "citationShort": "UNHCR (2024) – with major processing by Our World in Data",
+      "citationLong": "UNHCR (2024) – with major processing by Our World in Data. “Refugees by country of origin” [dataset]. UNHCR, “Refugee Population Statistics Database 2023” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/962011.metadata.json"
+    }
+  },
+  "dateDownloaded": "2024-12-12"
+}
