@@ -1,8 +1,6 @@
 Global Refugee Population Visualization
 
-Overview:
-
-    This project presents an interactive, web-based data visualization exploring global refugee populations by country or territory of origin from 1951 to 2023. Using a combination of choropleth maps, time-series line charts, bar charts, and small multiples, the visualization allows users to understand both global distributions and specific country-level trends over time. Additional features like animation, facetting, and log-scale options help manage the dataset’s complexity and highlight key insights.
+Overview: This project presents an interactive, web-based data visualization exploring global refugee populations by country or territory of origin from 1951 to 2023. Using a combination of choropleth maps, time-series line charts, bar charts, and small multiples, the visualization allows users to understand both global distributions and specific country-level trends over time. Additional features like animation, facetting, and log-scale options help manage the dataset’s complexity and highlight key insights.
 
 Key Features
 1. Choropleth Map with Animation:
